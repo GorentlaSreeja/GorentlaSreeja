@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gorentla Sreeja</h1>
+<h1 align="center">Hi , I'm Gorentla Sreeja</h1>
 
 <h3 align="center">
 Aspiring Software Engineer | AI & ML Student | Problem Solver
@@ -14,7 +14,7 @@ Aspiring Software Engineer | AI & ML Student | Problem Solver
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 🎓 B.Tech Computer Science (AI & ML) Student
 
@@ -169,13 +169,13 @@ A responsive recipe website featuring search functionality, category filters, an
 💻 Active GitHub Developer  
 🚀 Passionate about AI, Full Stack Development & Problem Solving
 
-# 💬 Quote
+#  Quote
 
 > **"Success is built one commit, one project, and one learning experience at a time."**
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! <br>
+ Thanks for visiting my profile! <br>
 Let's connect, collaborate, and build something amazing together. 🚀
 </h3>
